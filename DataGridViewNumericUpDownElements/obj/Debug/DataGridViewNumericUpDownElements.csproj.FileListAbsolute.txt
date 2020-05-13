@@ -1,0 +1,6 @@
+E:\Study\視窗程式設計(MVC)\hw5\106590040\106590040\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.dll
+E:\Study\視窗程式設計(MVC)\hw5\106590040\106590040\DataGridViewNumericUpDownElements\bin\Debug\DataGridViewNumericUpDownElements.pdb
+E:\Study\視窗程式設計(MVC)\hw5\106590040\106590040\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.csprojAssemblyReference.cache
+E:\Study\視窗程式設計(MVC)\hw5\106590040\106590040\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.csproj.CoreCompileInputs.cache
+E:\Study\視窗程式設計(MVC)\hw5\106590040\106590040\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.dll
+E:\Study\視窗程式設計(MVC)\hw5\106590040\106590040\DataGridViewNumericUpDownElements\obj\Debug\DataGridViewNumericUpDownElements.pdb

@@ -1,0 +1,35 @@
+Core i9-9900K
+Core™ i9-9900K 與同家族另兩位先遣成員相同皆為不鎖頻之 K 版本。原廠針對 K 版處理器皆不隨附散熱風扇，而交由使用者依其超頻需求自行搭配最佳之散熱解決方案。此外，i9-9900K 仍擁有超執行緒(HT, Hyper-Threading)之技術，以此其執行緒仍為真實核心數之兩倍數。Core™ i9-9900K 擁有超越以往 intel 消費級 CPU 之核心數及執行緒，為八核心，16 執行緒。",
+../../../Image/cpu1.jpg
+15700
+1
+Core I9-9920X
+Intel® Core™ X-series 處理器最高達18核心可虛擬成36執行緒，針對需要多功處理或密集性指令運算需求。支援44 PCIe* lanes、4通道DDR4-2666MHz記憶體、Thunderbolt™ technology技術和高速儲存裝置像Intel® Optane™ SSD固態式硬碟。全系列產品都不鎖頻設計及採用特殊散熱焊料材質(STIM)以因應超頻玩家的需求。
+../../../Image/cpu2.jpg
+34599
+2
+Intel Core i3-9100F
+第9代 Intel Core i處理器，配合新款Z370晶片主機板，最高可支援40條PCIe 3.0通道，也提供 USB-C Thunderbolt 3 傳輸協定，且支援Intel Optane Memory，搭配之下最高可提昇2.1倍的反應時間，以及8.6倍的網頁存取效率。
+../../../Image/cpu3.jpg
+2850
+3
+Intel Core i7 - 9700KF
+為所有最新的 AAA 遊戲和 VR 提供新等級的單一、多執行緒和超級多工效能
+../../../Image/cpu4.jpg
+12750
+4
+AMD Ryzen 7-2700X 3.7GHz
+為所有最新的 AAA 遊戲和 VR 提供新等級的單一、多執行緒和超級多工效能", "AMD Ryzen 7 2700X 是 8 核 16 緒的處理器，12nm FinFET 製程，快取為 4 + 16 MB，基礎頻率 3.7 GHz，最大加速為 4.3 GHz，有內附信仰 RGB 散熱器，有 X 代表可以使用 Precision Boost Overdrive (PBO) 自動超頻，但是玩家也可以手動超頻，TDP 105W。
+../../../Image/cpu5.jpg
+7000
+5
+AMD Ryzen 7-3700X 3.6GHz
+Ryzen 7 3800X 與 3700X 規格相似，同樣 8 核心 16 執行緒、4+32MB 的 L2 / L3 快取，而 3800X 有著較高的時脈設定 Base 3.9GHz、Boost 4.5GHz，因此 TDP 熱設計功耗達到 105W，相較 3700X 3.6GHz / 4.4GHz、TDP 65W，可見 3800X 在時脈提升下熱設計功耗也跟著提升。
+../../../Image/cpu6.jpg
+11700
+6
+INTEL 盒裝Pentium G5400
+腳位：1151 時脈速度：3.70 GHz 快取記憶體：4.0 MB 核心/執行緒：2 / 4 內含顯示：HD Graphics 610 TDP：54 W
+../../../Image/cpu7.jpg
+1999
+7

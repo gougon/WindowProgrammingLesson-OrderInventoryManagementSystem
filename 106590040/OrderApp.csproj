@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D62A25C-3C54-4361-BC97-D72B2E9FCDD7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_106590040</RootNamespace>
+    <AssemblyName>106590040</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataType\BasicType\Point.cs" />
+    <Compile Include="DataType\Product\Categories.cs" />
+    <Compile Include="DataType\Product\Category.cs" />
+    <Compile Include="DataGridViewSetting.cs" />
+    <Compile Include="DataType\CreditCardPayment.cs" />
+    <Compile Include="CreditCradPaymentForm\CreditCardPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreditCradPaymentForm\CreditCardPaymentForm.Designer.cs">
+      <DependentUpon>CreditCardPaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreditCradPaymentForm\CreditCardPaymentPresentationModel.cs" />
+    <Compile Include="DataType\BasicType\Date.cs" />
+    <Compile Include="InventoryForm\InventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryForm\InventoryForm.Designer.cs">
+      <DependentUpon>InventoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryForm\InventoryPresentationModel.cs" />
+    <Compile Include="MenuForm\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuForm\MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuForm\MenuPresentationModel.cs" />
+    <Compile Include="DataType\BasicType\Name.cs" />
+    <Compile Include="OrderForm\OrderFormProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderForm\OrderFormOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\OrderModel.cs" />
+    <Compile Include="DataType\Order.cs" />
+    <Compile Include="OrderForm\OrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderForm\OrderForm.Designer.cs">
+      <DependentUpon>OrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderForm\OrderPresentationModel.cs" />
+    <Compile Include="DataType\Product\Product.cs" />
+    <Compile Include="DataType\UI\ProductButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataType\Product\ProductInfo.cs" />
+    <Compile Include="PriceConverter.cs" />
+    <Compile Include="ProductManageForm\CategoryManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductManageForm\CategoryManageForm.Designer.cs">
+      <DependentUpon>CategoryManageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductManageForm\CommonManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductManageForm\CommonManageForm.Designer.cs">
+      <DependentUpon>CommonManageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductManageForm\ProductManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductManageForm\ProductManageForm.Designer.cs">
+      <DependentUpon>ProductManageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductManageForm\ProductManagePresentationModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReplenishmentForm\ReplenishmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReplenishmentForm\ReplenishmentForm.Designer.cs">
+      <DependentUpon>ReplenishmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReplenishmentForm\ReplenishmentPresentationModel.cs" />
+    <EmbeddedResource Include="CreditCradPaymentForm\CreditCardPaymentForm.resx">
+      <DependentUpon>CreditCardPaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryForm\InventoryForm.resx">
+      <DependentUpon>InventoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuForm\MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderForm\OrderForm.resx">
+      <DependentUpon>OrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductManageForm\CommonManageForm.resx">
+      <DependentUpon>CommonManageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReplenishmentForm\ReplenishmentForm.resx">
+      <DependentUpon>ReplenishmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataGridViewNumericUpDownElements\DataGridViewNumericUpDownElements.csproj">
+      <Project>{82b50731-be90-433f-bb6e-9b509c5f3b7c}</Project>
+      <Name>DataGridViewNumericUpDownElements</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

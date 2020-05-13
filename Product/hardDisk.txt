@@ -1,0 +1,35 @@
+Micron Crucial MX500 500GB SATAⅢ 固態硬碟
+連續讀取560MB/s /連讀寫入510MB/s 動態寫入加速 獨立NAND容錯陣列(RAIN) 四層特定資料防護 AES 256 位元加密 資料路徑保護 整合性斷電保護
+../../../Image/hd1.jpg
+1899
+22
+Kingston A1000 960GB M.2 2280 PCIe NVMe™ Gen 3.0x2 SSD
+讀取1500MB/s;寫入1000MB/s 容量：960GB 規格： M.2 22x80mm 傳輸介面 PCIe NVMe™ Gen 3.0 x 2 通道 隨機4k讀/寫:高達120K/100KIOPS 單面設計－適合輕薄筆記型電腦 內建3D TLC 晶片 採用 NVMe 新標準
+../../../Image/hd2.jpg
+2999
+23
+Micron Crucial MX500 1TB SATAⅢ 固態硬碟
+連續讀取560MB/s /連讀寫入510MB/s 動態寫入加速 獨立NAND容錯陣列(RAIN) 四層特定資料防護 AES 256 位元加密 資料路徑保護 整合性斷電保護
+../../../Image/hd3.jpg
+3749
+24
+TCELL 冠元- TT550 480GB 2.5吋 SATAIII SSD固態硬碟
+升級有感 程式秒開超爽快 闇黑時尚菱格搭配璀璨鑽石環切質感提升 讀取速度：550MB/s 寫入速度：480MB/s 採「SLC快取演算技術」提升速度 原廠三年保固 ECC自動錯誤校正穩定可靠 內建RAID engine及LDPC提升資料可靠度 ●鋁合金外殼散熱最佳
+../../../Image/hd4.jpg
+1399
+25
+金士頓 A2000 1000G NVMe PCIe 固態硬碟 (SA2000M8/1000G)
+讀取2200MB/s;寫入2000MB/s 規格： M.2 22x80mm 傳輸介面 PCIe NVMe™ Gen 3.0 x 4 通道 隨機4k讀/寫:高達250K/220KIOPS MTBF :200萬小時 具備TCG Opal2.0級的AES256位元的硬體及eDrive 支援, 提供強大資料保密功能 內建3D TLC 晶片
+../../../Image/hd5.jpg
+3680
+26
+金士頓 SSDNow A400 480GB 2.5吋 SATA-3 固態硬碟 (SA400S37/480G)
+最高讀取500MB/秒 最高寫入450MB/秒 容量：480GB 尺吋/介面：2.5吋 SATA-3(向下相容) 晶片：NAND TLC
+../../../Image/hd6.jpg
+1599
+27
+Seagate Backup Plus V2 Slim 2TB USB3.0 2.5
+USB3.0高速傳輸介面 輕薄1.2cm 內建Seagate Toolkit備份軟體 PC排程備份/一鍵化功能 鏡像備份/Mirror同步更新 還原備份/檔案資料不怕lose
+../../../Image/hd7.jpg
+2088
+28

@@ -1,0 +1,35 @@
+ROG Strix GeForce RTX™ 2080Ti O11G GAMING 顯示卡
+華碩第一波即推出了主流旗艦「ROG STRIX RTX 2080 Ti O11G GAMING」遊戲顯示卡，帶領遊戲跨入 Real-Time Ray Tracing、Deep Learning（AI）等混合渲染的新領域，並帶來新強化結構、2.7 槽厚鰭片與軸向式風扇等設計，並具備超頻時脈，給予玩家更加強悍的遊戲體驗。
+../../../Image/dc1.jpg
+41790
+15
+微星 GeForce RTX 2070 GAMING Z 8G 顯示卡
+這次的RTX 2070等級大概介於 1080TI 與1080之間，所以以 效能，價格，功耗來說都是在這個區間定位，不過這次RTX的主要還是在光影追蹤技術。
+../../../Image/dc2.jpg
+15900
+16
+NVIDIA TITAN RTX 顯示卡
+NVIDIA(R) TITAN RTX™ 是有史以來最快速的 PC 顯示卡。採用獲獎肯定的 Turing™ 架構，為 PC 提供 130 Tensor TFLOPs 效能、576 個 Tensor 核心與 24 GB 超高速 GDDR6 記憶體。
+../../../Image/dc3.jpg
+82990
+17
+華碩 PH-GTX1050TI-4G
+NVIDIA GeForce GTX 1050 TI繪圖核心 PCI Express 3.0 匯流排 GDDR5 4GB記憶體
+../../../Image/dc4.jpg
+4590
+18
+微星 GeForce GTX 1080 GAMING 8G 顯示卡
+集十代之大成的NVIDIA GEFORCE GTX 1080 創始版開賣以來已創佳績，雖然售價和理想值有些許落差，但極強悍的性能還是讓眾玩家願意搶快掏錢入手，話說這次在COMPUTEX 2016 隨處也都能夠看見GTX 1080的身影，即便不是板卡廠商，只要有提供VR體驗幾乎就是搭載GTX 1080。
+../../../Image/dc5.jpg
+16990
+19
+GALAX GeForce RTX 2080 OC 顯示卡
+全新 GeForce® RTX SUPER™ 系列具有更多核心及更高時脈，與原有 RTX 20 系列相較，效能提升高達 25%。整裝配備並享受超強威力。
+../../../Image/dc6.jpg
+17990
+20
+華碩 PH-GT1030-O2G 顯示卡
+顯示晶片 ：NVIDIA GeForce GT 1030 記憶體 ：2GB GDDR5 CUDA數 ：384 核心時脈 ：1278 MHz 記憶體時脈：6008MHz 記憶體介面：64-bit
+../../../Image/dc7.jpg
+3090
+21
