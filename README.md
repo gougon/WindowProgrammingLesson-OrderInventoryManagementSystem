@@ -6,14 +6,14 @@
 練習MVC架構
 
 **主要功能**<br>
-* Order System
+* **Order System**
   * 可以觀看不同的商品資訊
   * 加入訂單並顯示金額(可調整數量)
   * 訂購頁面會檢查輸入格式是否正確
-* Inventory System
+* **Inventory System**
   * 列出所有商品資訊及數量並進行補貨
   * 補貨頁面會檢查輸入格式
-* Product Manage System
+* **Product Manage System**
   * 可以編輯商品
   * 新增商品類別
   * 新增商品
